@@ -1,0 +1,16 @@
+{
+  "TOP_TITLE": "Настройки профиля",
+  "TOP_DESCRIPTION_NAMEANDSURNAME": "Имя и Фамилия",
+  "TOP_DESCRIPTION_COUNTRY": "Страна",
+  "TOP_DESCRIPTION_NEWPASSWORD": "Новый пароль",
+  "TOP_DESCRIPTION_EMAIL": "E-mail",
+  "TOP_DESCRIPTION_TELEGRAM": "Telegram",
+  "TOP_DESCRIPTION_REPEATNEWPASSWORD": "Повторите новый пароль",
+  "TOP_DESCRIPTION_SKYPE": "Skype",
+  "TOP_DESCRIPTION_PHONE": "Телефон",
+  "TOP_DESCRIPTION_EXISTINGPASSWORD": "Существующий пароль",
+  "TOP_DESCRIPTION_CHANGE": "Изменить",
+  "TOP_DESCRIPTION_SAVE": "Сохранить",
+  "TOP_DESCRIPTION_HELP": "Для сохранения настроек введите существующий пароль.",
+  "TOP_DESCRIPTION_SAVE_SETTINGS": "Настройки сохранены!"
+}

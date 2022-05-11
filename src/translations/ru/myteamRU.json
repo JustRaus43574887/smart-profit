@@ -1,0 +1,23 @@
+{
+  "TOP_TITLE": "Моя команда",
+  "TOP_DESCRIPTION_SEARCH": "Поиск",
+  "TOP_DESCRIPTION_SEARCH1": "Поиск",
+  "TOP_DESCRIPTION_NEWREGISTRATION": "Новые регистрации",
+  "TOP_DESCRIPTION_EXPIREDPARTNERS": "Просроченные партнеры",
+  "TOP_DESCRIPTION_PAIDPARTNERS": "Оплаченные партнеры",
+  "TOP_DESCRIPTION_NAMEANDSURNAME1": "Имя и Фамилия",
+  "TOP_DESCRIPTION_SPONSOR1": "Спонсор",
+  "TOP_DESCRIPTION_TEAM1": "Команда",
+  "TOP_DESCRIPTION_DATEOFPAYMENT": "Дата покупки",
+  "TOP_DESCRIPTION_ID1": "Логин",
+  "TOP_DESCRIPTION_STATUS1": "Статус",
+  "TOP_DESCRIPTION_COUNTRY1": "Страна",
+  "TOP_DESCRIPTION_L/COMAND": "Л/Команда",
+  "TOP_DESCRIPTION_PREVIOUS": "Предыдущая",
+  "TOP_DESCRIPTION_NEXT": "Следующая",
+  "TOP_DESCRIPTION_PHONE1": "Телефон",
+  "TOP_DESCRIPTION_EMAIL2": "Email",
+  "TOP_DESCRIPTION_REGISTRATIONDATE": "Дата регистрации",
+  "TOP_DESCRIPTION_TRANSFERPLACE": "Передать место",
+  "TOP_DESCRIPTION_REPLACE": "Заменить"
+}

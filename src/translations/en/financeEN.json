@@ -1,0 +1,15 @@
+{
+  "TOP_TITLE": "Statistics on your income",
+  "TOP_DESCRIPTION_TRANSACTION": "Transaction number",
+  "TOP_DESCRIPTION_FROMWHON": "From whom",
+  "TOP_DESCRIPTION_LEVEL3": "Level",
+  "TOP_DESCRIPTION_BNB2": "BNB",
+  "TOP_DESCRIPTION_DATE3": "Date",
+  "TOP_DESCRIPTION_STATUS3": "Status",
+  "TOP_DESCRIPTION_REFERRAL1": "Referral",
+  "TOP_DESCRIPTION_COMPLRTED1": "Completed",
+  "TOP_DESCRIPTION_PREVIOUS2": "Previous",
+  "TOP_DESCRIPTION_NEXT1": "Next",
+  "TOP_DESCRIPTION_MAXIBONUS1": "Maxi Bonus",
+  "TRANSACTION_HASH": "Transaction hash"
+}

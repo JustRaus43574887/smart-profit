@@ -1,0 +1,13 @@
+{
+  "TOP_TITLE": "ВОССТАНОВИТЬ ПАРОЛЬ",
+  "TOP_DESCRIPTION_EMAIL": "Введите ваш Login",
+  "TOP_DESCRIPTION_DATA": "Введите данные",
+  "TOP_DESCRIPTION_SEND": "Отправить",
+  "TOP_DESCRIPTION_ACCOUNT": "Есть аккаунт?",
+  "TOP_DESCRIPTION_SIGNIN": "Войдите",
+  "TOP_DESCRIPTION_UPDATE": "ОБНОВЛЕНИЕ ПАРОЛЯ",
+  "TOP_DESCRIPTION_LETTER": "Письмо успешно отправлено на вашу электронную почту. Проверьте свою электронную почту и следуйте инструкциям. Желаем успехов в системе SMART PROFIT!",
+  "TOP_DESCRIPTION_UNDERSTOOD": "Понял",
+  "TOP_DESCRIPTION_SUCCESS": "Новый пароль был отправлен на Вашу почту.",
+  "TOP_DESCRIPTION_NOT_FOUND": "Такой логин не найден"
+}

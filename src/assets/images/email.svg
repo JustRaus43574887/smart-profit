@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Email" transform="translate(-771 -443)">
+    <circle id="Эллипс_7" data-name="Эллипс 7" cx="28" cy="28" r="28" transform="translate(771 443)" fill="#5cd58e"/>
+    <g id="mail" transform="translate(785.713 385.61)">
+      <g id="Сгруппировать_73" data-name="Сгруппировать 73" transform="translate(18.373 77.342)">
+        <g id="Сгруппировать_72" data-name="Сгруппировать 72" transform="translate(0 0)">
+          <path id="Контур_190" data-name="Контур 190" d="M360.311,101.721l-8.1,8.048,8.1,8.048a2.32,2.32,0,0,0,.235-1.006V102.727A2.32,2.32,0,0,0,360.311,101.721Z" transform="translate(-352.211 -101.721)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_75" data-name="Сгруппировать 75" transform="translate(1.342 76)">
+        <g id="Сгруппировать_74" data-name="Сгруппировать 74" transform="translate(0 0)">
+          <path id="Контур_191" data-name="Контур 191" d="M48.74,76H26.727a2.32,2.32,0,0,0-1.006.235l10.353,10.3a2.349,2.349,0,0,0,3.319,0l10.353-10.3A2.32,2.32,0,0,0,48.74,76Z" transform="translate(-25.721 -76)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_77" data-name="Сгруппировать 77" transform="translate(0 77.342)">
+        <g id="Сгруппировать_76" data-name="Сгруппировать 76" transform="translate(0 0)">
+          <path id="Контур_192" data-name="Контур 192" d="M.235,101.721A2.32,2.32,0,0,0,0,102.727v14.084a2.32,2.32,0,0,0,.235,1.006l8.1-8.048Z" transform="translate(0 -101.721)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_79" data-name="Сгруппировать 79" transform="translate(1.342 86.496)">
+        <g id="Сгруппировать_78" data-name="Сгруппировать 78" transform="translate(0 0)">
+          <path id="Контур_193" data-name="Контур 193" d="M41.646,277.211,40.5,278.357a3.916,3.916,0,0,1-5.532,0l-1.146-1.146-8.1,8.048a2.32,2.32,0,0,0,1.006.235H48.74a2.32,2.32,0,0,0,1.006-.235Z" transform="translate(-25.721 -277.211)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

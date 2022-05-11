@@ -1,0 +1,212 @@
+.team_screen {
+  padding-top: 180px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.general_top_block {
+  display: flex;
+  align-items: center;
+}
+
+.general_title_block {
+  display: flex;
+  align-items: center;
+}
+
+.general_title {
+  font-size: 24px;
+  color: #fff;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.general_search_block {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.general_search_input {
+  outline: 0;
+  padding: 0px 20px;
+  width: 370px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px #606065 solid;
+  background-color: rgba(57, 64, 74, 0.5);
+  backdrop-filter: blur(20px);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.search_button {
+  margin-left: 20px;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  background: #728ab3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition-duration: 0.1s;
+  transition: 0.1s;
+}
+
+.search_button:hover {
+  opacity: 0.5;
+}
+
+.search_button p {
+  font-size: 16px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.tab {
+  margin-top: 50px;
+  overflow: hidden;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  width: 400px;
+  height: 60px;
+  background: linear-gradient(152.97deg, rgba(68, 133, 230, 0.2) 0%, rgba(24, 41, 101, 0.2) 100%);
+  backdrop-filter: blur(42px);
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 21px;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 17px;
+  transition-duration: 0.1s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background: linear-gradient(152.97deg, rgba(68, 133, 230, 0.9) 0%, rgba(24, 41, 101, 0.9) 100%);
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background: linear-gradient(152.97deg, rgba(68, 133, 230, 0.9) 0%, rgba(24, 41, 101, 0.9) 100%);
+}
+
+.tab button:nth-child(2) {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.copy_green {
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+}
+
+.instructions{
+  height: 26px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.copy_input {
+  outline: 0;
+  color: #fff;
+  background-color: transparent;
+  border: 0;
+  width: 100px;
+}
+
+#carouselExampleControls {
+  margin-top: 50px;
+}
+
+.register_text {
+  color: #fff !important;
+}
+
+.free_status {
+  color: #728ab3 !important;
+}
+
+tbody{
+  backdrop-filter: blur(15px);
+}
+
+.general_table {
+  margin-top: 50px;
+}
+
+.head_table{
+  background: linear-gradient(152.97deg, rgba(68, 133, 230, 0.5) 0%, rgba(24, 41, 101, 0.5) 100%);
+  backdrop-filter: blur(42px);
+  border-radius: 15px;
+}
+
+.table_page_indicator {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.buttons_block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* media adaptive */
+
+@media (max-width: 1601px) {
+  .child_content p,
+  .child_row p {
+    font-size: 15px;
+  }
+
+  .main_row p {
+    font-size: 18px;
+  }
+
+  .tab button {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 992px) {
+  .tab button {
+    font-size: 14px;
+  }
+  .team_screen {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 130px;
+  }
+}
+
+@media (max-width: 800px) {
+  .tab {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tab button {
+  }
+  .tab button:nth-child(2) {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .general_table {
+    width: 1200px;
+  }
+}

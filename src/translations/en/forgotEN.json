@@ -1,0 +1,13 @@
+{
+  "TOP_TITLE": "RESTORE PASSWORD",
+  "TOP_DESCRIPTION_EMAIL": "Enter your Login",
+  "TOP_DESCRIPTION_DATA": "Enter data",
+  "TOP_DESCRIPTION_SEND": "Send",
+  "TOP_DESCRIPTION_ACCOUNT": "Have an account?",
+  "TOP_DESCRIPTION_SIGNIN": "Sign in",
+  "TOP_DESCRIPTION_UPDATE": "UPDATE PASSWORD",
+  "TOP_DESCRIPTION_LETTER": "The letter has been successfully sent to your e-mail. Check your email and follow the instructions.We wish you success in the SMART PROFIT sestem!",
+  "TOP_DESCRIPTION_UNDERSTOOD": "Understood",
+  "TOP_DESCRIPTION_SUCCESS": "New password was sent to your email.",
+  "TOP_DESCRIPTION_NOT_FOUND": "User doesn't exist"
+}

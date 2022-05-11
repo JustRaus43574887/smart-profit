@@ -1,0 +1,25 @@
+{
+  "short_name": "SMART PROFIT",
+  "description": "SMART PROFIT - is an unparalleled international crowdfunding community that brings together dedicated and freedom-loving people from all over the world. Absolutely anyone can become a member of SMART PROFIT by simply activating a position in the system, and thereby helping other participants to achieve their goals as soon as possible. In exchange, it is already possible for him to receive help from the system participants, but already for the implementation of his goals.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f2ca6b",
+  "background_color": "#000519"
+}

@@ -1,0 +1,15 @@
+{
+  "TOP_TITLE": "Статистика ваших доходов",
+  "TOP_DESCRIPTION_TRANSACTION": "Номер транзакции",
+  "TOP_DESCRIPTION_FROMWHON": "От кого",
+  "TOP_DESCRIPTION_LEVEL3": "Уровень",
+  "TOP_DESCRIPTION_BNB2": "BNB",
+  "TOP_DESCRIPTION_DATE3": "Дата",
+  "TOP_DESCRIPTION_STATUS3": "Статус",
+  "TOP_DESCRIPTION_REFERRAL1": "Реферальный",
+  "TOP_DESCRIPTION_COMPLRTED1": "Выполнен",
+  "TOP_DESCRIPTION_PREVIOUS2": "Предыдущая",
+  "TOP_DESCRIPTION_NEXT1": "Следующая",
+  "TOP_DESCRIPTION_MAXIBONUS1": "Maxi Bonus",
+  "TRANSACTION_HASH": "Хеш транзакции"
+}

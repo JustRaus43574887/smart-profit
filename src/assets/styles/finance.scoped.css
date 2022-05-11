@@ -1,0 +1,180 @@
+.finance_screen {
+  padding-top: 160px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.general_top_block {
+  display: flex;
+  align-items: center;
+}
+
+.general_title_block {
+  display: flex;
+  align-items: center;
+}
+
+.general_title {
+  font-size: 24px;
+  color: #fff;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.general_search_block {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.general_search_input {
+  outline: 0;
+  padding: 0px 20px;
+  width: 370px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px #606065 solid;
+  background-color: rgba(57, 64, 74, 0.5);
+  backdrop-filter: blur(20px);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.search_button {
+  margin-left: 20px;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  background: #728ab3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition-duration: 0.1s;
+  transition: 0.1s;
+}
+
+.search_button:hover {
+  opacity: 0.5;
+}
+
+.search_button p {
+  font-size: 16px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+#MyFinance {
+  overflow-x: auto;
+}
+
+@media (max-width: 992px) {
+
+  .finance_screen {
+    padding-top: 120px;
+  }
+}
+
+.tab {
+  margin-top: 50px;
+  overflow: hidden;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  width: 400px;
+  height: 60px;
+  background-color: #728ab3 !important;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 21px;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 5px;
+  transition-duration: 0.1s;
+  z-index: 99999999999 !important;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #4c6fa8 !important;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #3b5b91 !important;
+}
+
+.tab button:nth-child(2) {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#ExpirePartner,
+#NewRegister {
+  display: none;
+}
+
+.copy_green {
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+}
+
+.copy_input {
+  outline: 0;
+  color: #fff;
+  background-color: transparent;
+  border: 0;
+  width: 100px;
+}
+
+#carouselExampleControls {
+  margin-top: 50px;
+}
+
+.register_text {
+  color: #fff !important;
+}
+
+.free_status {
+  color: #728ab3 !important;
+}
+
+.general_table {
+  margin-top: 50px;
+}
+
+tbody{
+  backdrop-filter: blur(15px);
+}
+
+.table_page_indicator {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.buttons_block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.date_text {
+  color: #fff;
+}
+
+@media screen and (max-width: 425px) {
+  .finance_screen {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
